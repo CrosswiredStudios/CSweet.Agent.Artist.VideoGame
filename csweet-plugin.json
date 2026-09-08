@@ -8,7 +8,7 @@
     "specializationKeys": ["video-game-development", "asset-production"]
   },
   "id": "com.csweet.video-game-artist",
-  "name": "Video Game Artist",
+  "name": "Clara Hayes",
   "version": "2.1.1",
   "publisher": { "id": "com.csweet", "name": "C-Sweet" },
   "runtime": {
@@ -83,6 +83,9 @@
   "webAccess": { "mode": "None", "rules": [] },
   "ui": [],
   "catalog": {
+    "imageUrl": "https://raw.githubusercontent.com/CrosswiredStudios/CSweet.Agent.Artist.VideoGame/main/assets/branding/portrait-v1.jpg",
+    "companyLogoUrl": "https://raw.githubusercontent.com/CrosswiredStudios/CSweet.Agent.Artist.VideoGame/main/assets/branding/csweet-icon.svg",
+    "accentColor": "#B28B37",
     "summary": "Creates and curates project assets under the approved asset-production strategy.",
     "category": "Creative",
     "role": { "key": "game-artist", "name": "Video Game Artist" },
